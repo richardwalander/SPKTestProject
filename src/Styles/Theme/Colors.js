@@ -1,0 +1,18 @@
+export default {
+  primary: '#007aff',
+  positive: '#4cd946',
+  negative: '#ff2d55',
+  warning: '#ff9500',
+  bg: '#f2f2f2',
+  white: '#fff',
+  ut0: '#fff',
+  ut5: '#f2f2f2',
+  ut8: '#ebebeb',
+  ut19: '#cfcfcf',
+  ut26: '#bdbdbd',
+  ut54: '#757575',
+  ut76: '#3d3d3d',
+  ut87: '#212121',
+  ut95: '#0d0d0d',
+  ut100: '#000',
+}
